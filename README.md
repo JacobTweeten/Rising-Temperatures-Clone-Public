@@ -1,8 +1,9 @@
 # Rising Temperatures
 Developed with Unreal Engine 5
 
-## **Event Flyer**
-![Rising Temperatures Flyer](RisingTempsHandout.png)
+## Watch the Demo Video
+
+[![Watch the Demo](https://img.youtube.com/vi/D-FtEIE_D1Y/0.jpg)](https://youtu.be/D-FtEIE_D1Y?si=oUf325stKBA4cem9)
 
 # Background
 
@@ -14,11 +15,7 @@ When presented with the theme “Simulated Sustainability”, we were drawn to t
 👉 Learn more about the exhibition here: [Asheville Art Museum Exhibit](https://www.ashevilleart.org/event/virtual-reality-art-panel/)
 
 
-## 🎥 Watch the Demo Video
-[▶ Watch on Google Drive](
-https://drive.google.com/file/d/14p9FjgHgrBNL-_0VVpya2agTbmRMdRtY/view?usp=sharing)
-
-
+![Rising Temperatures Flyer](RisingTempsHandout.png)
 
 # Note on Project Files
 This repository does not contain the full project due to GitHub's 2GB file size limit. If you are interested in accessing the complete project files, please feel free to contact me at jacobrtweeten@gmail.com.
