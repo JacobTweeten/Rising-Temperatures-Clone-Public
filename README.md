@@ -1,6 +1,9 @@
 # Rising Temperatures
 Developed with Unreal Engine 5
 
+## **Event Flyer**
+![Rising Temperatures Flyer](Rising Temperatures Handout.pdf)
+
 # Background
 
 Rising Temperatures was developed by UNCA students Gabriel Nicholson and Jacob Tweeten in Dr. Bradbury’s Spring 2024 VR class. This project was created as part of our final assignment, with the potential to be displayed alongside the Ginny Ruffner exhibition at the Asheville Art Museum.
