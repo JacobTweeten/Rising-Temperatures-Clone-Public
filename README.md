@@ -2,7 +2,7 @@
 Developed with Unreal Engine 5
 
 ## **Event Flyer**
-![Rising Temperatures Flyer](Rising Temperatures Handout.pdf)
+![Rising Temperatures Flyer](RisingTempsHandout.png)
 
 # Background
 
